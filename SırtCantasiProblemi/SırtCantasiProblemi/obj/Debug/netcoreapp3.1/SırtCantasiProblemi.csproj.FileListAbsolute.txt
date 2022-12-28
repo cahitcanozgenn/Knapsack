@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\bin\Debug\netcoreapp3.1\SırtCantasiProblemi.exe
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\bin\Debug\netcoreapp3.1\SırtCantasiProblemi.deps.json
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\bin\Debug\netcoreapp3.1\SırtCantasiProblemi.runtimeconfig.json
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\bin\Debug\netcoreapp3.1\SırtCantasiProblemi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\bin\Debug\netcoreapp3.1\SırtCantasiProblemi.dll
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\bin\Debug\netcoreapp3.1\SırtCantasiProblemi.pdb
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.dll
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.pdb
+C:\Users\Administrator\Desktop\SırtCantasiProblemi\SırtCantasiProblemi\obj\Debug\netcoreapp3.1\SırtCantasiProblemi.genruntimeconfig.cache
