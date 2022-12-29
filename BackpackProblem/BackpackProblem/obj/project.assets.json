@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BackpackProblem\\BackpackProblem\\BackpackProblem.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\Knapsack\\BackpackProblem\\BackpackProblem\\BackpackProblem.csproj",
       "projectName": "BackpackProblem",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\BackpackProblem\\BackpackProblem\\BackpackProblem.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Knapsack\\BackpackProblem\\BackpackProblem\\BackpackProblem.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\BackpackProblem\\BackpackProblem\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Knapsack\\BackpackProblem\\BackpackProblem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

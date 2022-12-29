@@ -5,7 +5,6 @@ namespace BackpackProblem
 {
 	class Program
 	{
-
 		public static int KnapSack(int capacity, int[] weight, int[] value, int itemsCount)
 		{
 			int[,] K = new int[itemsCount + 1, capacity + 1];
@@ -25,10 +24,10 @@ namespace BackpackProblem
 
 			return K[itemsCount, capacity];
 		}
+
 		static void Main(string[] args)
 		{
-
-
+			
 			string dosyaIcerigi;
 			using (StreamReader sr = new StreamReader("C:\\Users\\Administrator\\Desktop\\items.txt"))
 			{
@@ -36,6 +35,7 @@ namespace BackpackProblem
 			}
 
 			Console.WriteLine(dosyaIcerigi);
+
 
 			string line =dosyaIcerigi.Split('\n')[0];
 			string line2 =dosyaIcerigi.Split('\n')[1];
@@ -50,37 +50,27 @@ namespace BackpackProblem
 			string[] colon4 = line5.Split(',');
 			string[] colon5 = line6.Split(',');
 
-
-
 			Console.WriteLine("**");
 
 
 			string[] value =
 			{
-	colon[0][0].ToString(),
-	colon2[0][0].ToString(),
-	colon3[0][0].ToString(),
-	colon4[0][0].ToString(),
-	colon5[0][0].ToString()
+	           colon[0][0].ToString(),
+	           colon2[0][0].ToString(),
+	           colon3[0][0].ToString(),
+	           colon4[0][0].ToString(),
+	           colon5[0][0].ToString()
 		};
-			int[] values = new int[5];
-	for(int i=0;i<value.Length;i++)
-            {
-				foreach(var j in value)
-                {
-					values[i] = int.Parse(j);
-                }
-            }
 
-			foreach (var i in value)
+			int[] values = new int[value.Length];
+
+			for (int i = 0; i < value.Length; i++)
 			{
-				Console.WriteLine(i);
-
+				values[i] = int.Parse(value[i]);
 			}
-
-			//Console.WriteLine(values[1]);
 			
-			string[] weight = {
+			string[] weight = 
+			{
 				colon[0][2]+colon[0][3].ToString(),
 				colon2[0][2]+colon2[0][3].ToString(),
 				colon3[0][2]+colon3[0][3].ToString(),
@@ -88,32 +78,18 @@ namespace BackpackProblem
 				colon5[0][2]+colon5[0][3].ToString()
 			};
 
+			int[] weights = new int[weight.Length];
 
+			for (int i = 0; i < weight.Length; i++)
+			{
+				weights[i] = int.Parse(weight[i]);
+			}
 
 			int capacity = Convert.ToInt32(line);
 			int itemsCount = 3;
 
-			
-
-			//int result = KnapSack(capacity,weights, values, itemsCount);
-
-			//Console.WriteLine(result);
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
+			int result = KnapSack(capacity, weights, values, itemsCount);
+		    Console.WriteLine(result);
 		}
 	}
 }

@@ -12,3 +12,17 @@ C:\Users\Administrator\Desktop\BackpackProblem\BackpackProblem\bin\Debug\netcore
 C:\Users\Administrator\Desktop\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.dll
 C:\Users\Administrator\Desktop\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.pdb
 C:\Users\Administrator\Desktop\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\bin\Debug\netcoreapp3.1\BackpackProblem.exe
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\bin\Debug\netcoreapp3.1\BackpackProblem.deps.json
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\bin\Debug\netcoreapp3.1\BackpackProblem.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\bin\Debug\netcoreapp3.1\BackpackProblem.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\bin\Debug\netcoreapp3.1\BackpackProblem.dll
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\bin\Debug\netcoreapp3.1\BackpackProblem.pdb
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.dll
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.pdb
+C:\Users\Administrator\Documents\GitHub\Knapsack\BackpackProblem\BackpackProblem\obj\Debug\netcoreapp3.1\BackpackProblem.genruntimeconfig.cache
